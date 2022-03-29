@@ -1,0 +1,26 @@
+[33mcommit 28f327b669adbc9127ca0f5089ff4513b18f50a5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Josepablo Ellis <ellisjosepablo99@gmail.com>
+Date:   Tue Mar 29 09:47:36 2022 -0600
+
+    Mejorando el index.html
+
+ index.html | 6 [32m++++[m[31m--[m
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+[33mcommit 81e054ce252b20dd63533e7993da844687ff1917[m
+Author: Josepablo Ellis <ellisjosepablo99@gmail.com>
+Date:   Tue Mar 29 08:44:50 2022 -0600
+
+    Agregando Estructura basica de HTML
+
+ index.html | 12 [32m++++++++++++[m
+ 1 file changed, 12 insertions(+)
+
+[33mcommit 85b1748ea77c8745e4e496c59c7097aca30f28ba[m
+Author: Josepablo Ellis <ellisjosepablo99@gmail.com>
+Date:   Tue Mar 29 08:39:47 2022 -0600
+
+    agregando index.html
+
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
